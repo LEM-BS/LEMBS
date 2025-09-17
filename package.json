@@ -1,0 +1,21 @@
+{
+  "name": "cozy-daffodil-f4598c",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@types/node": "^20.14.10",
+    "astro": "^4.13.1",
+    "jsdom": "^24.0.0",
+    "linkinator": "^6.1.4",
+    "typescript": "^5.5.4",
+    "vitest": "^1.6.0"
+  }
+}
